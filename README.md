@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm Alvaro Franco</h1>
 <h3 align="center">A biomedical engineer who just got a master's from Brown University.</h3>
 
-- 🔭 I’m currently working on **deep learning for tumor treatment**
+- 🔭 I’m currently working on **deep learning applied to medical imaging for tumor treatment**.
+- Actively looking for a job.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
